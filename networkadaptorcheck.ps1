@@ -17,7 +17,7 @@ $CurrentBandwidthGB = $CurrentBandwidth / 1000000
        "<channel>Traffic Total</channel>"
        "<value>$BytesTotalPersec</value>"
        "</result>"
-       "<result"
+       "<result">"
        "<channel>Traffic In</channel>"
        "<value>$BytesReceivedPersec</value>"
        "</result>"
